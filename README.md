@@ -60,5 +60,4 @@ A Java SE console application for managing students, courses, enrollments, grade
 - Exported CSV
 - Backup folder
 
-## ▶️ Optional
-Demo video link here.
+
