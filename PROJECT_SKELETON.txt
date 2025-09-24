@@ -1,0 +1,2 @@
+Refer to the provided canvas skeleton: copy each Java block into its respective file.
+(Already structured in packages: config, domain, service, io, cli, exceptions)
